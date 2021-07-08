@@ -1,1 +1,1 @@
-# pro_dev_period
+this project deals wirth classifying corn leaves into healthy and unhealthy.if acorn leaf is found unhealthy the ui which is built pn flask and tunneled through ngrok is supposed to provide treatment of the disease and the price of the medicine.
